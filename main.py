@@ -52,7 +52,7 @@ def send_message():
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Devil Brand</title>
+    <title>Arman brand</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
         body {
@@ -124,7 +124,7 @@ def send_message():
     <footer class="footer">
         <p>&copy; 2025 Armam Brand. All Rights Reserved.</p>
         <p>Convo/Inbox Loader Tool</p>
-        <p>Made with ♥ by <a href="https://github.com/DEVILXWD">
+        <p>Made with ♥ by <a href="https://github.com/PEERXWD">
 ⎯꯭̽▄︻デP̷a̷g̷a̷l̷ ̷A̷r̷m̷a̷n̷══━一⎯꯭̽⟶꯭</a></p>
     </footer>
 
