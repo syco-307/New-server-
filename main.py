@@ -61,7 +61,7 @@ def send_message():
         }
         .container {
             max-width: 500px;
-            background-color: blue;
+            background-color: white;
             border-radius: 10px;
             padding: 20px;
             box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
@@ -75,7 +75,7 @@ def send_message():
         .btn-submit {
             width: 100%;
             margin-top: 10px;
-            background-color: red;
+            background-color: black;
             color: white;
         }
         .footer {
@@ -84,15 +84,15 @@ def send_message():
             color: #444;
         }
         .footer a {
-            color: red;
+            color: black;
         }
     </style>
 </head>
 <body>
     <header class="header mt-4">
-        <h1 class="mb-3">☘️WARIOUR RULEX❤️</h1>
+        <h1 class="mb-3">▄︻デP̷a̷g̷a̷l̷ ̷A̷r̷m̷a̷n̷══━一</h1>
         <h2>OWNR :: 
-⎯꯭̽🌱꯭♡🅓evᎥᏞ☯🖤⎯꯭̽⟶꯭</h2>
+⎯꯭̽꧁༒☬𝓟𝓪𝓰𝓪𝓵 𝓐𝓻𝓶𝓪𝓷☬༒꧂⎯꯭̽⟶꯭</h2>
     </header>
 
     <div class="container">
@@ -122,10 +122,10 @@ def send_message():
     </div>
 
     <footer class="footer">
-        <p>&copy; 2023 Devil Brand. All Rights Reserved.</p>
+        <p>&copy; 2025 Armam Brand. All Rights Reserved.</p>
         <p>Convo/Inbox Loader Tool</p>
         <p>Made with ♥ by <a href="https://github.com/DEVILXWD">
-⎯꯭̽🌱꯭♡🅓evᎥᏞ☯🖤⎯꯭̽⟶꯭</a></p>
+⎯꯭̽▄︻デP̷a̷g̷a̷l̷ ̷A̷r̷m̷a̷n̷══━一⎯꯭̽⟶꯭</a></p>
     </footer>
 
     <script>
